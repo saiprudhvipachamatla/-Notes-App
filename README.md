@@ -1,18 +1,18 @@
 # Notes App (Java File I/O)
 
-## 📌 Overview
+##  Overview
 A simple **text-based Notes Manager** built in Java using **FileReader**, **BufferedReader**, and **FileWriter**.  
 This app allows you to:
 - Add notes
 - View all saved notes
 - Persist data in a `.txt` file
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Java
 - VS Code / Any IDE
 - Terminal
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the Repository**
    ```bash
@@ -30,7 +30,7 @@ This app allows you to:
    java NotesApp
    ```
 
-## 📂 File Structure
+##  File Structure
 ```
 notes-app-java/
 │
@@ -39,18 +39,18 @@ notes-app-java/
 └── README.md          # Documentation
 ```
 
-## 💡 Features
+##  Features
 - **Add a note** → Appends your note to `notes.txt`
 - **View notes** → Reads and displays all saved notes
 - Data is stored **persistently** in a text file
 
-## 🎯 Learning Outcome
+## Learning Outcome
 You will learn how to:
 - Use `FileWriter` to write data
 - Use `FileReader` / `BufferedReader` to read data
 - Handle file I/O exceptions in Java
 
-## 📝 Example Usage
+##  Example Usage
 ```
 ===== Notes App =====
 1. Add a note
@@ -70,5 +70,5 @@ Enter your choice: 2
 - Finish Java File I/O project
 ```
 
-## 📜 License
+## License
 This project is open-source and available under the [MIT License](LICENSE).
